@@ -19,7 +19,7 @@ Sub-Layerの内部ツールではありません。
 
 ## スクリーンショット
 
-![勉強デスクの全体画面](images/study-desk.png)
+![勉強デスクの全体画面](https://github.com/aqua-grok/aqua-grok-study-desk/blob/main/study-desk.png)
 
 - 上：時計と試験日カウントダウン
 - 中：ポモドーロ
