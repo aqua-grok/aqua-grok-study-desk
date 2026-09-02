@@ -62,7 +62,9 @@ Sub-Layerの内部ツールではありません。
 
 ## ダウンロード
 
-最新版のEXEは Releases からどうぞ。
+最新版のEXEは GitHub Releases からどうぞ。
+
+https://github.com/aqua-grok/aqua-grok-study-desk/releases/tag/v1.0.0
 
 ## 共同作業
 
